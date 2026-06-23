@@ -119,6 +119,7 @@ ECommerce_Customer_Intelligence.ipynb
 * Marketing automation based on customer segments
 
 ## Author
-
-Built as a customer analytics and business intelligence project to demonstrate data analysis, machine learning, and customer-centric decision making using real-world e-commerce data.
+Varikuti Bhanuhshre
+BTECH-CSE
+bhanuhshre25@gmail.com
 
