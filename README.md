@@ -119,7 +119,7 @@ ECommerce_Customer_Intelligence.ipynb
 * Marketing automation based on customer segments
 
 ## Author
-Varikuti Bhanuhshre
-BTECH-CSE
+Varikuti Bhanuhshre,
+BTECH-CSE,
 bhanuhshre25@gmail.com
 
